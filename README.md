@@ -1,6 +1,11 @@
 # thesis
 This repo is for UCLA MAS thesis. 
 
+Title:
+
+Prediction of Yelp Score from Reviews with Machine Learning Model
+
+
 Yuandong David Sun
 
 UID: 204-502-172
